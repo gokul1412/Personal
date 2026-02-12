@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Muthuselvam200.github.io/bemyvalentine",
+  "homepage": "https://gokul1412.github.io/Personal",
   "scripts": {
     "dev": "vite",
     "build": "node scripts/optimize-images.js && vite build",
